@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+div{
+    background-color: lightblue;
+    font-family: Georgia, 'Times New Roman';
+}
+h2{
+    text-decoration: underline;
+    text-align: center;
+    margin-bottom: 15px;
+    font-size: 30px;
+    color: rgb(49, 21, 75);
+}
+p{
+    line-height: 1.6;
+    background-color: rgb(143, 10, 10);
+    color: antiquewhite;
+    font-weight: 500;
+}
+

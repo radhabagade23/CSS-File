@@ -1,0 +1,29 @@
+
+*{
+    margin: 0;
+}
+.navigation ul {
+    list-style: none;
+    font-size: 20px;
+    font-weight: 600;
+}
+.navigation{
+    background-color: rgb(220, 136, 136);
+    padding: 10px;
+}
+.navigation a{
+    color: antiquewhite;
+}
+.navigation #cart-link{
+    background-color: rgb(46, 109, 176);
+    padding: 3px;
+}
+.navigation ul li::before{
+    content: "★ ";
+    color: rgb(23, 23, 21);
+    margin-right: 5px;
+}
+.navigation > ul > li > ul > li{
+    color:#492525;
+    background-color: aliceblue;
+}

@@ -1,0 +1,36 @@
+
+body{
+     background-color: bisque;
+}
+.product-card h3{
+     font-size: 2.5em;
+     color: #690e75;
+     margin: 10px 0px 10px 0px;
+}
+.product-card p{
+     font-size: 1.3em;
+     color: #3d3838;
+     margin: 10px 0px 10px 0px;
+}
+.product-card b{
+     font-size: 20px;
+}
+
+button[type="button"]{
+     background-color:rgb(212, 88, 109);
+     padding: 5px;
+     margin-top: 10px;
+     font-size: 15px;
+     font-weight: 600;
+     border: none;
+     cursor: pointer;
+}
+button[type="button"]:hover{
+     background-color: #c546d6;
+}
+.product-card ul li{
+     padding: 5px 0;
+}
+.product-card ul li:hover{
+     background-color: rgb(177, 192, 192);
+}
