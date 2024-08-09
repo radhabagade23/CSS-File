@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-family: Georgia, serif;
+}
+
+h1{
+    color: rgb(49, 21, 75);
+    font-size: 28px;
+    font-weight: bold;
+}
+.article-container{
+    background-color: lightblue;
+    text-align: justify;
+    padding: 7px;
+}
+.article-meta{
+    color: grey;
+    font-size: 14px;
+    font-weight: normal;
+    font-style: italic;
+    text-decoration: none;
+}
+p{
+    line-height: 1.6;
+    font-size: 18px;
+}
+
